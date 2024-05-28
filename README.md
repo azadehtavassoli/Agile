@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains my work on the Forage Agile Methodology program, provided by Cognizant. The program is self-paced and involves completing tasks guided by pre-recorded videos and example answers from Cognizant's team. Upon completion, participants earn a certificate, which can be added to their resume and LinkedIn as an extracurricular activity. This program helps individuals stand out in applications, confidently answer interview questions, and explain why they are a good fit for a team.
+This repository contains my work on the Forage Agile Methodology program, provided by Cognizant. The program is self-paced and involves completing tasks guided by pre-recorded videos and example answers from Cognizant's team. 
 
 For more details about the program, you can visit the official page [here](https://www.theforage.com/simulations/cognizant/agile-methodology-io6p).
 
