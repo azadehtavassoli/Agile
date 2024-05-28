@@ -1,72 +1,76 @@
-#Forage-Agile-Methodology-Forage
-How it works Complete tasks guided by pre-recorded videos and example answers from our team at Cognizant. No live sessions, all self-paced. Earn a certificate and add it to your resume and LinkedIn as an extra curricular activity. Stand out in applications. Confidently answer interview questions and explain why you’re a good fit for our team.
+﻿
+# Forage-Agile-Methodology-Forage
 
-https://www.theforage.com/simulations/cognizant/agile-methodology-io6p
+## Overview
 
-Task One: Waterfall vs Agile
-Pros and Cons of the two methodologies
+This repository contains my work on the Forage Agile Methodology program, provided by Cognizant. The program is self-paced and involves completing tasks guided by pre-recorded videos and example answers from Cognizant's team. Upon completion, participants earn a certificate, which can be added to their resume and LinkedIn as an extracurricular activity. This program helps individuals stand out in applications, confidently answer interview questions, and explain why they are a good fit for a team.
 
-What you'll learn
+For more details about the program, you can visit the official page [here](https://www.theforage.com/simulations/cognizant/agile-methodology-io6p).
 
-The fundamentals of project management methodologies, Agile and Waterfall.
+## Tasks and Learnings
 
-What you'll do
+### Task One: Waterfall vs Agile
 
-Create a presentation with succinct analysis of strengths and weaknesses of the two project management methodologies, Agile and Waterfall.
+**What you'll learn:**
 
-Task Two: User Stories
-Informal description of features from the user’s point of view
+-   The fundamentals of project management methodologies, Agile and Waterfall.
 
-What you'll learn
+**What you'll do:**
 
-How to define a user story
+-   Create a presentation with a succinct analysis of the strengths and weaknesses of the two project management methodologies, Agile and Waterfall.
 
-What you'll do
+### Task Two: User Stories
 
-Identify 3-5 user stories for a new futuristic project, an interplanetary video-conferencing application
+**What you'll learn:**
 
-Task Three: Role Assignments and Ceremonies
-Preparing for the project kick-off
+-   How to define a user story.
 
-What you'll learn
+**What you'll do:**
 
-The fundamentals of the most popular process framework, Scrum
+-   Identify 3-5 user stories for a new futuristic project, an interplanetary video-conferencing application.
 
-What you'll do
+### Task Three: Role Assignments and Ceremonies
 
-Create a 1-2 page document explaining the role assignment and ceremonies in a Scrum
+**What you'll learn:**
 
-Task Four: Agile Tools and Concepts
-Hands-on with Agile
+-   The fundamentals of the most popular process framework, Scrum.
 
-What you'll learn
+**What you'll do:**
 
-An understanding of the key concepts in Agile methodology, including complexity & estimations, a backlog and a burndown chart.
+-   Create a 1-2 page document explaining the role assignment and ceremonies in a Scrum.
 
-What you'll do
+### Task Four: Agile Tools and Concepts
 
-Complete a quiz to test your knowledge of key Agile concepts.
+**What you'll learn:**
 
-Task Five: Agile Curve Balls
-Preparing for the challenges
+-   An understanding of the key concepts in Agile methodology, including complexity & estimations, a backlog, and a burndown chart.
 
-What you'll learn
+**What you'll do:**
 
-How to resolve common issues that arise during a sprint
+-   Complete a quiz to test your knowledge of key Agile concepts.
 
-What you'll do
+### Task Five: Agile Curve Balls
 
-Diagnose what is broken in the development process and suggest a remedy for the video-conferencing application
+**What you'll learn:**
 
-Task Six: Agile Methodology Review and Additional Resources
-Let’s recap what we learned
+-   How to resolve common issues that arise during a sprint.
 
-What you'll learn
+**What you'll do:**
 
-Recap the key points you've learned
+-   Diagnose what is broken in the development process and suggest a remedy for the video-conferencing application.
 
-What you'll do
+### Task Six: Agile Methodology Review and Additional Resources
 
-Read some additional materials on Agile
+**What you'll learn:**
 
-Complete a multi-choice quiz
+-   Recap the key points you've learned.
+
+**What you'll do:**
+
+-   Read some additional materials on Agile and complete a multiple-choice quiz.
+
+## Conclusion
+
+This program has provided me with a comprehensive understanding of Agile methodology and project management. The hands-on tasks and quizzes helped solidify my knowledge, making me more confident in applying these concepts in real-world scenarios.
+
+Feel free to explore my completed tasks in this repository, and reach out if you have any questions or need further information
